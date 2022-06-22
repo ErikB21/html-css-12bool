@@ -1,0 +1,17 @@
+.box{
+    height: 50px;
+    background-color: royalblue;
+    border: 1px solid white;
+    padding: 2px;
+}
+
+.box-in{
+    height: 40px;
+    background-color: yellowgreen;
+    margin: 2px;
+}
+
+.box-light{
+    height: 40px;
+    opacity: 100%;
+}
