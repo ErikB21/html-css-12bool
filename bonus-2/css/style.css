@@ -37,6 +37,14 @@
     justify-content: space-around;
 }
 
+.jus-cen{
+    justify-content: center;
+}
+
+.jus-end{
+    justify-content: flex-end;
+}
+
 .al-mid{
     align-self: center;
 }
