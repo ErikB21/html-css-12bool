@@ -1,0 +1,20 @@
+.box{
+    height: 70px;
+    background-color: lightslategray;
+    border: 1px solid black;
+}
+
+.box-in{
+    height: 70px;
+    background-color: yellowgreen;
+}
+
+.box-on{
+    height: 70px;
+    background-color: royalblue;
+}
+
+.box-bl{
+    height: 70px;
+    color: black;
+}
