@@ -1,0 +1,46 @@
+.box{
+    height: 50px;
+    background-color: royalblue;
+    border: 1px solid white;
+    padding: 2px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
+
+.box-in{
+    height: 40px;
+    background-color: yellowgreen;
+    margin: 2px;
+}
+
+.box-light{
+    height: 40px;
+    opacity: 100%;
+}
+
+.box-on{
+    height: 25px;
+    background-color: royalblue;
+    border: 1px solid white;
+    padding: 2px;
+    color: white;
+    text-align: center;
+    line-height: 25px;
+}
+
+.sp-bet{
+    justify-content: space-between;
+}
+
+.sp-aro{
+    justify-content: space-around;
+}
+
+.al-mid{
+    align-self: center;
+}
+
+.al-bot{
+    align-self: flex-end;
+}
