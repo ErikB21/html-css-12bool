@@ -1,20 +1,35 @@
 .box{
-    height: 70px;
-    background-color: lightslategray;
+    height: 81px;
+    background-color: #4682B4;
     border: 1px solid black;
 }
 
-.box-in{
-    height: 70px;
-    background-color: yellowgreen;
+.box-on{
+    background-color: #E0FFFF;
 }
 
-.box-on{
-    height: 70px;
-    background-color: royalblue;
+.box-in{
+    background-color: #ADD8E6;
+}
+
+.box-in, .box-on, .box-bl{
+    display: flex;
+    justify-content: center;
+    height: 81px;
+}
+
+.box-in i, .box-on i{
+    font-size: 3rem;
+    line-height: 81px;
 }
 
 .box-bl{
-    height: 70px;
-    color: black;
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    line-height: 81px;
+}
+
+.col-blu{
+    color: #4682B4;
 }
